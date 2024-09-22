@@ -30,5 +30,3 @@ Os <strong>utilitários</strong> são recursos úteis para o dia a dia como mode
   - [Rocketseat](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
 -  [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
   - [Balta](https://balta.io/blog/documentacao-com-github)
-
----
