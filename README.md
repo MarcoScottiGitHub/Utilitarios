@@ -24,7 +24,7 @@ Os <strong>utilitários</strong> são recursos úteis para o dia a dia como mode
 ---
 
   <h3>
-  <p>Melhores formatos de readme</p>
+  <p>Formatos de readme</p>
 </h3>
 
   - [Rocketseat](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
@@ -32,9 +32,12 @@ Os <strong>utilitários</strong> são recursos úteis para o dia a dia como mode
   - [Balta](https://balta.io/blog/documentacao-com-github)
 
 ---
-<br>
-<p>Atualizando ...</p>
-<br>
+  <h3>
+  <p>GifCam</p>
+</h3>
+
+  - [GifCam](https://gifcam.br.uptodown.com/windows)
+
 <br>
 
 ## Licença
